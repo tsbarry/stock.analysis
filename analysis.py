@@ -21,8 +21,6 @@ META = [
     [90.790001,96.720001,96.470001,101.470001,111.870003,113.019997,114.220001,117.080002] 
 ]
 
-
-
 #mean = sum_of_all_elements in the list / len(list)
 #variance = sum_of_squared_differences / len()
 #squared_difference = mean - each element **2
